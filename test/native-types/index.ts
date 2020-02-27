@@ -1,6 +1,10 @@
+interface Geo {
+  area: number;
+}
+
 /**
  * @api {get} /api/:id
  * @apiParam {SquareConfig} id Unique ID.
- * @apiInterface {number} area
+ * @apiInterface {Geo}
  * @apiGroup arrayWithBracketsTest
  */

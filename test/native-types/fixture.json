@@ -24,7 +24,7 @@
             "type": "Number",
             "optional": false,
             "field": "area",
-            "description": ""
+            "description": "<p><code>area</code></p>"
           }
         ]
       }
